@@ -1,7 +1,7 @@
 
 
 # **Trading Data Analyser 📊🚀**  
-A **robust data analysis pipeline** for **Binance trade history**, designed to process, analyze, and visualize trading data. This project calculates **key financial metrics**, ranks portfolios, generates visual insights, and provides an **automated trading report in PDF format**.
+A **robust data analysis pipeline** for **Binance trade history**, designed to process, analyze, and visualize trading data. This project calculates **key financial metrics**, ranks portfolios, generates visual insights, and provides an **automated trading report in PDF format.**.
 
 ---
 
@@ -55,7 +55,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```sh
 pip install -r requirements.txt
 ```
-
+###  **🔹Step 4: Unzip file**
+Befor the run code unzip the  data_compressed.tar.xz file. That are contain  one folder and that folder are have the one sample csv file for testing.
 ---
 
 ## **📌 How to Run the Project**
